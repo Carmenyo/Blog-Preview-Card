@@ -1,0 +1,11 @@
+@media (max-width: 375px) {
+    .card {
+     width: 327px;
+     
+      &__image{
+         border: solid red 1px;
+         max-width:279px ;
+      }
+  }
+ 
+}

@@ -59,5 +59,8 @@ body {
   font-weight: 700;
   font-size: .9rem;
 }
-
+// ACTIVE STATES
+&__title:hover {
+color: $Yellow
+}
 }
